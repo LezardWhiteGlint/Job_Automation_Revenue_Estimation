@@ -1,7 +1,7 @@
 import openpyxl
 import os
 from itertools import zip_longest
-os.chdir('/Users/lezardvaleth/Documents/Python/Profit')
+#os.chdir('/Users/lezardvaleth/Documents/Python/Profit')
 
 #define how many days the results will show
 days = 730
